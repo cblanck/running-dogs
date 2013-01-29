@@ -1,0 +1,16 @@
+body {
+    background-image: url("assets/omfgdogs.gif");
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+
+#bottom {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 20pt;
+    font-family: arial;
+    border: 2px solid red;
+    color: teal;
+    background-color: pink;
+}
